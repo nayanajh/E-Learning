@@ -1,0 +1,103 @@
+body{
+  margin:0;
+  font-family:Arial;
+  background:#020617;
+  color:white;
+}
+
+/* LOGIN */
+#login{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+
+.card{
+  background:#1e293b;
+  padding:30px;
+  border-radius:10px;
+  text-align:center;
+}
+
+input{
+  padding:10px;
+  margin:10px;
+}
+
+button{
+  padding:10px 15px;
+  cursor:pointer;
+}
+
+/* NAVBAR */
+header{
+  background:#1e293b;
+  padding:10px;
+}
+
+nav a{
+  margin:10px;
+  cursor:pointer;
+  color:#38bdf8;
+}
+
+/* SECTIONS */
+.section{
+  display:none;
+  padding:20px;
+}
+
+.active{
+  display:block;
+}
+
+/* HERO */
+.hero{
+  text-align:center;
+  padding:100px 20px;
+}
+
+.hero h1{
+  font-size:40px;
+}
+
+.hero h2{
+  color:#38bdf8;
+}
+
+.hero p{
+  color:#94a3b8;
+}
+
+/* COURSES */
+.title{
+  margin:20px;
+}
+
+.course-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:20px;
+  padding:20px;
+}
+
+.course-card{
+  background:#020617;
+  padding:20px;
+  border-radius:15px;
+  cursor:pointer;
+  border:1px solid #1e293b;
+}
+
+.course-card:hover{
+  transform:translateY(-5px);
+  box-shadow:0 0 20px #38bdf8;
+}
+
+/* COLORS */
+.blue{border-color:#3b82f6;}
+.purple{border-color:#9333ea;}
+.orange{border-color:#f97316;}
+.green{border-color:#22c55e;}
+.red{border-color:#ef4444;}
