@@ -22,4 +22,9 @@ Another important feature of this project is the progress tracking system. The d
 In conclusion, the E-Learning Platform UI project successfully fulfills the requirements of designing an interactive and styled front-end interface. It integrates key features such as authentication UI, course listing, video embedding, progress tracking, and user navigation. This project showcases practical knowledge of web development concepts and serves as a strong foundation for building full-scale e-learning systems in the future.
 
 ##OUTPUT:
+<img width="1917" height="914" alt="Image" src="https://github.com/user-attachments/assets/914a7477-af6c-4fff-9205-c1f289eef447" />
+
+<img width="1900" height="901" alt="Image" src="https://github.com/user-attachments/assets/9e3dbf39-373d-4a4e-b7b0-ed8a713eff65" />
+
+<img width="1189" height="892" alt="Image" src="https://github.com/user-attachments/assets/4cf79114-5b4c-4f42-b586-904f40c5b70c" />
 
